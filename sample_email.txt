@@ -1,0 +1,23 @@
+SIMULATED TRAINING SAMPLE — NOT A REAL EMAIL
+Use this fictional message only for learning. Do not click links or open attachments in real suspicious emails.
+
+From: "Account Support" <support-alert@example.com>
+To: student@example.com
+Subject: URGENT: Your account will be suspended today!
+
+Dear User,
+
+We noticed unusual activity in your account. Your access will be suspended today unless you verify your details immediately.
+
+Please visit the verification page:
+http://account-check.example.com/verify
+
+If you do not respond within 2 hours, your account may be permanently blocked.
+
+Thank you,
+Account Security Team
+
+TRAINING NOTES:
+- The sender and domains use example.com, which is reserved for documentation and is not a real service.
+- The link is a non-functional illustrative placeholder.
+- This message is intentionally written to demonstrate common warning signs.

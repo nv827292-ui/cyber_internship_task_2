@@ -1,0 +1,20 @@
+SIMULATED EMAIL HEADER — FOR CLASSROOM ANALYSIS ONLY
+This is invented sample data, not a real email header and not evidence about a real sender.
+
+From: "Account Support" <support-alert@example.com>
+To: student@example.com
+Subject: URGENT: Your account will be suspended today!
+Date: Tue, 03 Nov 2026 09:15:00 +0000
+Message-ID: <training-001@example.com>
+Return-Path: <bounce@example.net>
+Received: from mail.example.net (mail.example.net [192.0.2.25])
+        by mx.example.com with ESMTP id TRAINING001
+Authentication-Results: mx.example.com;
+        spf=neutral;
+        dkim=none;
+        dmarc=none
+
+TRAINING INTERPRETATION:
+- The Return-Path domain differs from the visible From domain. In a real email, this difference should be checked, but it is not proof of phishing by itself.
+- SPF is shown as neutral, while DKIM and DMARC are shown as none. These results would need interpretation in context.
+- All domains and IP addresses here are documentation placeholders. Do not submit this invented header to an online analyzer expecting meaningful results.

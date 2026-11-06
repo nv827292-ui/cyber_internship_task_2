@@ -1,0 +1,25 @@
+TASK 2 — INTERVIEW QUESTIONS AND SHORT ANSWERS
+
+1. What is phishing?
+Phishing is a type of social engineering in which an attacker uses deceptive messages to trick people into revealing information or taking an unsafe action.
+
+2. How can you identify a phishing email?
+Look for an unexpected message, an unverified sender, urgent or threatening language, unusual links, unexpected attachments, generic greetings, and spelling or grammar mistakes.
+
+3. What is email spoofing?
+Email spoofing is the falsification of email sender information so that a message appears to come from a different address or organization.
+
+4. Why are phishing emails dangerous?
+They can trick recipients into disclosing sensitive information, visiting unsafe websites, or opening harmful attachments.
+
+5. How can you verify sender authenticity?
+Check the full sender address and relevant header information, but do not rely on one indicator alone. Verify the request using a known official website or contact method.
+
+6. What tools can analyze email headers?
+Email clients may provide a “show original” or “view message source” option. Header-analysis tools can help interpret authentication and routing fields. Use only approved tools and avoid uploading private data without permission.
+
+7. What should you do with a suspected phishing email?
+Do not click links or open attachments. Report it using the email provider's phishing-report option or to the organization's IT/security team, then follow their instructions.
+
+8. How do attackers use social engineering in phishing?
+They may imitate trusted organizations or use urgency, fear, curiosity, or authority to influence a recipient's decisions.
